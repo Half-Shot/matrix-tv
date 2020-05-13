@@ -1,0 +1,24 @@
+{
+  "name": "matrix-tv",
+  "version": "0.0.1",
+  "description": "WebOS app for Matrix",
+  "main": "public/lib/index.js",
+  "author": "Half-Shot <will@half-shot.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.7",
+    "bootstrap": "^4.4.1",
+    "css-loader": "^3.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "reactstrap": "^8.4.1",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.1",
+    "ts-loader": "^7.0.3",
+    "typescript": "^3.8.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "uk.half-shot.matrixtv",
+  "version": "0.0.1",
+  "vendor": "Half-Shot",
+  "type": "web",
+  "main": "index.html",
+  "title": "Matrix TV",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
